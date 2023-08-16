@@ -12,7 +12,7 @@
 - [📗 Table of Contents](#-table-of-contents)
 - [📖 Math Magicians](#-math-magicians)
   - [🛠 Built With React \& JS](#-built-with-react--js)
-    - [Tech Stack HTML5](#tech-stack-html5)
+    - [Tech Stack React](#tech-stack-react)
     - [Tech Stack JS](#tech-stack-js)
     - [Key Features ](#key-features-)
   - [💻 Getting Started ](#-getting-started-)
@@ -30,11 +30,11 @@
 
 # 📖 <a name="about-project">Math Magicians</a>
 
-**Math Magicians** is a website building with React. It is a Single Page App that allows you make simple calculations and read a random math-related quote.
+**Math Magicians** is a website building with React. It is a Single Page App that allows you to make simple calculations and read a random math-related quote.
 
 ## 🛠 Built With <a name="built-with">React & JS</a>
 
-### Tech Stack <a name="tech-stack">HTML5</a>
+### Tech Stack <a name="tech-stack">React</a>
 
 <details>
   <summary>React</summary>
