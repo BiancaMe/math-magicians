@@ -1,16 +1,16 @@
 .app {
   width: 100%;
-  height: 100%;
+  height: 100vh;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 5%;
+  padding: 0 5% 0 0;
 }
 
 .calculator {
-  width: 14em;
+  width: 16em;
   height: 18em;
-  border: 2px solid rgb(185, 185, 185);
+  border: 4px solid rgb(251, 251, 251);
   border-radius: 2px;
 }
 
@@ -20,8 +20,9 @@
   height: 3.5em;
   display: flex;
   justify-content: center;
-  background-color: rgb(137, 137, 137);
+  background-color: rgb(154, 154, 154);
   color: white;
+  border: 1px solid white;
 }
 
 .output {
@@ -31,6 +32,7 @@
   background-color: transparent;
   text-align: right;
   font-size: 1.3em;
+  color: white;
 }
 
 .buttons {
@@ -51,9 +53,14 @@
 }
 
 .button {
-  border: 0.5px solid rgb(206, 206, 206);
+  background-color: rgb(192, 192, 192);
+  border: 0.5px solid rgb(233, 223, 223);
+  color: rgb(255, 255, 255);
 }
 
 .operation {
-  background-color: rgb(217, 93, 48);
+  background-color: darksalmon;
+  color: white;
+  font-weight: 600;
+  font-size: 1em;
 }

@@ -1,0 +1,22 @@
+.item-c {
+  display: flex;
+  list-style: none;
+  gap: 2em;
+}
+
+.item {
+  background-color: transparent;
+  border: none;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(211, 200, 200);
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.item:hover {
+  color: rgb(255, 255, 255);
+}
+
+.active {
+  color: white;
+}
