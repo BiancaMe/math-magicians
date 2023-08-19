@@ -1,0 +1,14 @@
+.quote-c {
+  padding: 10%;
+}
+
+.text-q {
+  color: rgb(75, 74, 74);
+}
+
+.author {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  font-size: 1em;
+}
