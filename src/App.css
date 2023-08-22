@@ -5,12 +5,18 @@
 }
 
 .App-header {
-  background-color: rgb(205, 112, 80);
   min-height: 10vh;
   display: flex;
   align-items: center;
   justify-content: space-around;
-  font-size: calc(10px + 2vmin);
-  color: rgb(242, 233, 233);
+  font-size: 2em;
+  font-weight: 900;
+  color: rgb(255, 255, 255);
   font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.2);
+  background-color: rgb(242, 111, 96);
+}
+
+.header-c {
+  backdrop-filter: blur(55px);
 }
