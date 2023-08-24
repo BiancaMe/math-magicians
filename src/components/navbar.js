@@ -8,7 +8,13 @@ const Navbar = () => (
         <NavLink className="item" to="/">Home</NavLink>
       </li>
       <li>
+        <div className="line" />
+      </li>
+      <li>
         <NavLink className="item" to="/calculator">Calculator</NavLink>
+      </li>
+      <li>
+        <div className="line" />
       </li>
       <li>
         <NavLink className="item" to="/quote">Quote</NavLink>
