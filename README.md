@@ -15,6 +15,7 @@
     - [Tech Stack React](#tech-stack-react)
     - [Tech Stack JS](#tech-stack-js)
     - [Key Features ](#key-features-)
+  - [🚀 Live Demo](#live-demo)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
@@ -60,11 +61,12 @@
 - **Set up the linter for fixing the errors and clean code**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-<!----- LIVE DEMO
+<!----- LIVE DEMO  -->
+
 ## 🚀 Live Demo <a name="live-demo"></a>
-- [Live Demo Link](https://biancame.github.io/ToDoProject/dist/)
+- [Live Demo Link](https://math-magicians-afwx.onrender.com/)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
- -->
+
 
 <!-- GETTING STARTED -->
 
