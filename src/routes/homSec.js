@@ -4,7 +4,7 @@ import '../style/home.css';
 const HomeNav = () => (
   <div className="App">
     <header className="App-header">
-      <p> Math Magicians</p>
+      <p className="logo"> Math Magicians</p>
       <Navbar />
     </header>
     <div className="home">

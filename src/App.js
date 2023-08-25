@@ -1,5 +1,5 @@
 import './App.css';
-// eslint-disable-next-line import/no-extraneous-dependencies
+import React from 'react';
 import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import CalculatorNav from './routes/calculatorSec';
 import QuoteNav from './routes/quoteSec';

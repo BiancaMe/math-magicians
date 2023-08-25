@@ -19,6 +19,7 @@ const Calculator = () => {
 
   return (
     <div className="app">
+      <h2>Let&apos;s make some calculations ...</h2>
       <div className="calculator">
         <DisplayOutPut total={obj.total || ''} operation={obj.operation || ''} next={obj.next || ''} />
         <Buttons click={(e) => handleClick(e)} />
